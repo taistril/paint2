@@ -1,0 +1,37 @@
+html, body {
+	height:100%;
+	width:100%;
+}
+
+body,ul,li,h1,h2,p {
+	padding:0;
+	margin:0;
+	border:0;
+}
+
+body {
+	font-size:16px;
+/*	-webkit-user-select:none;*/
+    -webkit-text-size-adjust:none;
+	font-family:helvetica;
+	background:#fff;
+}
+
+
+.page {
+	-webkit-box-sizing:border-box;
+	position:relative;
+	z-index:2;
+	display:block;
+	float:left;
+	width:auto;
+	background:#fff;
+	padding:1em;
+	-webkit-transform:translate3d(0,0,0);
+}
+
+
+p { margin-bottom:1.2em; }
+
+
+

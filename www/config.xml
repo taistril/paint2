@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.phonegap.POI4"
+    id        = "com.phonegap.paint-test"
     version   = "1.0.0">
 
-<name>POI4</name>
+<name>paint-test</name>
 
 <description>
-Points of Interest Walk around Hebden Bridge Town Centre
+Paint test app
 </description>
 
 <author href="https://build.phonegap.com" email="mail@taistril.com">
